@@ -1,5 +1,5 @@
 # FirstRepository
 
-Hi, I'm Jay and Im a IT major in college
+Hi, I'm Jay and Im a IT technician
 
-Aiming to become an computer network architect
+Aiming to become an Network Engineer
